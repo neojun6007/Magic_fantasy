@@ -1,0 +1,13 @@
+# 임시 파일
+*.tmp
+*.bak
+*~
+.DS_Store
+
+# 편집기
+.vscode/
+.idea/
+
+# 파이썬 (분량 계산 스크립트 등)
+__pycache__/
+*.pyc
